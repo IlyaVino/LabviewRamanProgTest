@@ -13,6 +13,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="enable diable 3.vi" Type="VI" URL="../enable diable 3.vi"/>
+		<Item Name="enable disable test 2.vi" Type="VI" URL="../enable disable test 2.vi"/>
 		<Item Name="enable disable test.vi" Type="VI" URL="../enable disable test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
